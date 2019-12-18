@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Modul4;
+package Modul3;
 
 import java.util.HashMap;
 import java.util.Map;
